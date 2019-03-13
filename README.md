@@ -1,6 +1,6 @@
 # Homewise Sign-Up Widget
 
-This documentation covers the integration guide for Homweise Sign-Up widget for 3rd party websites. This is a JavaScript based utility which renders a sign-up widget on host website.
+This documentation covers the integration guide for Homewise Sign-Up widget for 3rd party websites. This is a JavaScript based utility which renders a sign-up widget on host website.
 
 ## Installation
 ### Step 1
