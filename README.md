@@ -37,4 +37,4 @@ Refer to the following table for a list of possible HTML5 data attributes to fur
 ## Support
 Contact Homewise Solutions Inc. for support. Feel free to report any bugs you identiy on GitHub.
 
-Read Homewise [privacy policy](https://thinkhomewise.com/page/privacy) and [terms of agreemnt](https://thinkhomewise.com/page/terms).
+Read Homewise [privacy policy](https://thinkhomewise.com/page/privacy) and [terms of agreement](https://thinkhomewise.com/page/terms).
